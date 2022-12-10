@@ -1,3 +1,10 @@
+/**
+* \file TP1_AlgoProc
+* \author Melisande Clisson & Lucie Charrier
+* \brief DM1 Ordonnanceur
+* \version 0.1
+**/
+
 #include "file.h"
 #include <stdio.h>
 
